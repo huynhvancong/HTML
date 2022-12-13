@@ -1,12 +1,12 @@
 # Bài tâp: Viết chương trình hiển thị tổng tiền 10 cuốn sổ tay
-1. [Câu1](jdoodle.com/ia/B6j)
+1. [Câu1](https://www.jdoodle.com/iembed/v0/B6j)
 # Bài tập c 
 ## Bài 3: Các câu lệnh nhánh
-1. [Câu 1](jdoodle.com/ia/B65)
-2. [Câu 2](jdoodle.com/ia/B66)
-3. [Câu 3](jdoodle.com/ia/B67)
-4. [Câu 4](jdoodle.com/ia/B68)
-5. [Câu 5](jdoodle.com/ia/B69)
-6. [Câu 6](jdoodle.com/ia/B6f)
-7. [Câu 7](jdoodle.com/ia/B6e)
-8. [Câu 8](jdoodle.com/ia/B6g)
+1. [Câu 1](https://www.jdoodle.com/iembed/v0/B6l)
+2. [Câu 2](https://www.jdoodle.com/iembed/v0/B6m)
+3. [Câu 3](https://www.jdoodle.com/iembed/v0/B6o)
+4. [Câu 4](https://www.jdoodle.com/iembed/v0/B6s)
+5. [Câu 5](https://www.jdoodle.com/iembed/v0/B6t)
+6. [Câu 6](https://www.jdoodle.com/iembed/v0/B6u)
+7. [Câu 7](https://www.jdoodle.com/iembed/v0/B6v)
+8. [Câu 8](https://www.jdoodle.com/iembed/v0/B6w)

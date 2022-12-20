@@ -1,5 +1,5 @@
-# Bài tâp: Viết chương trình hiển thị tổng tiền 10 cuốn sổ tay
-1. [Câu1](https://www.jdoodle.com/iembed/v0/B6j)
+## Bài tâp: Viết chương trình hiển thị tổng tiền 10 cuốn sổ tay
+1. [Câu 1](https://www.jdoodle.com/iembed/v0/B6j)
 # Bài tập c 
 ## Bài 3: Các câu lệnh nhánh
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/B6l)
@@ -10,3 +10,5 @@
 6. [Câu 6](https://www.jdoodle.com/iembed/v0/B6u)
 7. [Câu 7](https://www.jdoodle.com/iembed/v0/B6v)
 8. [Câu 8](https://www.jdoodle.com/iembed/v0/B6w)
+## Bài Kiểm Tra
+1. [Câu 1](https://www.jdoodle.com/iembed/v0/BqY)

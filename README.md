@@ -15,7 +15,7 @@
 6. [Câu 6](https://www.jdoodle.com/iembed/v0/B6u)
 7. [Câu 7](https://www.jdoodle.com/iembed/v0/B6v)
 8. [Câu 8](https://www.jdoodle.com/iembed/v0/B6w)
-## Bài 4: Các câu lệnh 
+## Bài 4: Các câu lệnh lặp
 1. [Câu 1](https://www.jdoodle.com/embed/v0/5I5H)
 ## Bài Kiểm Tra(20/12/2022)
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/BqY)

@@ -1,6 +1,11 @@
 ## Bài tâp: Viết chương trình hiển thị tổng tiền 10 cuốn sổ tay
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/B6j)
 # Bài tập c 
+## Bài 2: Các câu lệnh đơn
+# Cấu trúc lập (for,while,do/while)
+1. [Câu 1](chưa làm)
+2. [Câu 2](chưa làm)
+3. [Câu 3](chưa làm)
 ## Bài 3: Các câu lệnh nhánh
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/B6l)
 2. [Câu 2](https://www.jdoodle.com/iembed/v0/B6m)
@@ -13,3 +18,4 @@
 ## Bài Kiểm Tra(20/12/2022)
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/BqY)
 2. [Câu 2](https://www.jdoodle.com/embed/v0/5F3i)
+## Bài 5: Hàm

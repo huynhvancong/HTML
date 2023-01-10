@@ -20,9 +20,7 @@
 ## Bài Kiểm Tra(20/12/2022)
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/BqY)
 2. [Câu 2](https://www.jdoodle.com/embed/v0/5F3i)
-## Bài 5: Hàm
+## Bài tập ngày(03//1/2023)
 1. [Câu 1](https://www.jdoodle.com/iembed/v0/C3i)
 2. [Câu 2](https://www.jdoodle.com/iembed/v0/C3k)
-## Bài 6: Mảng
-## Bài 7: Chuỗi
-## Bài 8: Con trỏ
+

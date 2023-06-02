@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Phân loại số chẵn và số lẻ</title>
+    <script>
+        let n = parseInt(prompt("Nhập số phần tử:"));
+        let evenNumbers = "";
+        let oddNumbers = "";
+        let allNumbers = "";
+
+        for (let i = 1; i <= n; i++) {
+            if (i % 2 === 0) {
+                evenNumbers += i + " ";
+            } else {
+                oddNumbers += i + " ";
+            }
+            allNumbers += i + " ";
+        }
+
+        let message = "Dãy số từ 1 đến n là: " + allNumbers + "\n";
+        message += "Dãy số chẵn là: " + evenNumbers + "\n";
+        message += "Dãy số lẻ là: " + oddNumbers;
+
+        alert(message);
+    </script>
+</head>
+<body>
+    <h1>Phân loại số chẵn và số lẻ</h1>
+</body>
+</html>
